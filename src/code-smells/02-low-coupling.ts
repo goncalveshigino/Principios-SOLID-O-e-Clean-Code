@@ -77,11 +77,7 @@
     }
 
     class UserSettings {
-        // constructor(
-        //     public person: Person,
-        //     public user  : User,
-        //     public settings: Settings,
-        // ){}
+
         public person  : Person;
         public user    : User; 
         public settings: Settings;
